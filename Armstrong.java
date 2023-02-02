@@ -6,7 +6,7 @@ public class Armstrong {
             remainder = originalNumber % 10;
             result += Math.pow(remainder, 3);
             originalNumber /= 10;
-
+            // gsagjhgajJ
         }
         if (result == number) {
             System.out.println(number + "is an armstrong no");
